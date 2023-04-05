@@ -5,7 +5,7 @@
 - <b>Java Project</b>
   - [ Java programs in Eclipse](https://github.com/AshaJyothiD/New)
 - <b>Selenium Project</b>
-  - [Selenium Projects]() 
+  - [Selenium Projects](https://github.com/AshaJyothiD/Selenium_Practice_session.git) 
 - <b>Page Object Model</b>
    - [Page object Model](https://github.com/AshaJyothiD/Page-object-model.git)
   
