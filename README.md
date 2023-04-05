@@ -3,9 +3,9 @@
 <h2>👨‍💻 Software Testing Projects:</h2>
 
 - <b>Java Project</b>
-  - [ Java programs in Eclipse]()
+  - [ Java programs in Eclipse](https://github.com/AshaJyothiD/New)
 - <b>Selenium Project</b>
-  - [Image Analysis Middleware]() 
+  - [Selenium Projects]() 
 - <b>Page Object Model</b>
   
   
