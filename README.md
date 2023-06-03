@@ -8,6 +8,8 @@
   - [Selenium Projects](https://github.com/AshaJyothiD/Selenium_Practice_session.git) 
 - <b>Page Object Model</b>
    - [Page object Model](https://github.com/AshaJyothiD/Page-object-model.git)
+-<b>API Testing</b>
+    -[RestAssured](https://github.com/AshaJyothiD/RestAssured.git)
   
   
 
