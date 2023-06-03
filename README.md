@@ -9,7 +9,7 @@
 - <b>Page Object Model</b>
    - [Page object Model](https://github.com/AshaJyothiD/Page-object-model.git)
 - <b>API Testing</b>
-    -[RestAssured](https://github.com/AshaJyothiD/RestAssured.git)
+    - [RestAssured](https://github.com/AshaJyothiD/RestAssured.git)
   
   
 
